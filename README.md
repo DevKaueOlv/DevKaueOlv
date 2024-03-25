@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevKaueOlv&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKaueOlv&show_icons=true&theme=gotham&count_private=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaueOlv&layout=compact&theme=gotham&include_all_commits=true&count_private=true" /> <br>
 </div>
 
