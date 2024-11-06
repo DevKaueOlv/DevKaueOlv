@@ -10,5 +10,5 @@
 
 ###
 
-<p align="left">📚 I am currently in the 4th semester in ADS<br>🎯 Goals: I'm looking for a first job opportunity</p>
+<p align="left">📚 I am currently in the 5th semester in ADS<br>🎯 ERP Consulting Intern</p>
 
