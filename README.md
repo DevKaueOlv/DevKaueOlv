@@ -10,5 +10,5 @@
 
 ###
 
-<p align="left">📚 I am currently in the 5th semester in ADS<br>🎯 ERP Consulting Intern</p>
+<p align="left">📚 I am currently in the 6th semester in ADS<br>🎯 ERP Consulting Intern</p>
 
