@@ -28,3 +28,11 @@ Aqui estão algumas das tecnologias com as quais tenho mais experiência:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+### 🐍 Quadro de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevKaueOlv/DevKaueOlv/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
