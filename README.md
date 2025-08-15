@@ -28,12 +28,3 @@ Aqui estão algumas das tecnologias com as quais tenho mais experiência:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-### ✨ Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKaueOlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaueOlv&layout=compact&langs_count=7&theme=tokyonight"&include_all_commits=true&count_private=true"/>
-</p>
